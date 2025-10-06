@@ -11,5 +11,4 @@ Clean, intuitive user interface for seamless interaction.
 
 Responsive design, accessible on web and mobile devices.
 
-Website / Project URL:
-http://127.0.0.1:3000/index.html
+
