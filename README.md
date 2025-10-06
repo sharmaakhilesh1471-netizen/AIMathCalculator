@@ -1,2 +1,2 @@
-# AIMathCalculator-
+# Web project-
 Webproject Description
